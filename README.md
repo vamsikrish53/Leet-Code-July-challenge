@@ -10,3 +10,5 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 4   | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| Math  |     Medium   |
 | 5   | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)| Bit  |     Easy   |
 | 6   | [Plus One](https://leetcode.com/problems/plus-one/)| Math  |     Easy   |
+| 7   | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| DFS  |     Easy   |
+
