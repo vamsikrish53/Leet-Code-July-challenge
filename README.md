@@ -12,3 +12,4 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 6   | [Plus One](https://leetcode.com/problems/plus-one/)| Math  |     Easy   |
 | 7   | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| DFS  |     Easy   |
 | 8   | [3Sum](https://leetcode.com/problems/3sum/)| -  |     Medium   |
+| 9   | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)| DFS  |     Medium   |
