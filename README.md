@@ -13,3 +13,4 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 7   | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)| DFS  |     Easy   |
 | 8   | [3Sum](https://leetcode.com/problems/3sum/)| -  |     Medium   |
 | 9   | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)| DFS  |     Medium   |
+| 10  | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| Linked List  |     Medium   |
