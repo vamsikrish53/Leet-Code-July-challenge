@@ -15,3 +15,4 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 9   | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)| DFS  |     Medium   |
 | 10  | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| Linked List  |     Medium   |
 | 11  | [Subsets](https://leetcode.com/problems/subsets/)| Backtracking  |     Medium   |
+| 12  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| Bit  |     Easy   |
