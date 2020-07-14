@@ -17,3 +17,4 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 11  | [Subsets](https://leetcode.com/problems/subsets/)| Backtracking  |     Medium   |
 | 12  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| Bit  |     Easy   |
 | 13  | [Same Tree](https://leetcode.com/problems/same-tree/)| Tree  |     Easy   |
+| 13  | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)| Math  |     Medium   |
