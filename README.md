@@ -18,3 +18,4 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 12  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)| Bit  |     Easy   |
 | 13  | [Same Tree](https://leetcode.com/problems/same-tree/)| Tree  |     Easy   |
 | 14  | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)| Math  |     Medium   |
+| 15  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| Stings  |     Medium   |
