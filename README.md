@@ -22,3 +22,4 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 16  | [Pow(x, n)](https://leetcode.com/problems/powx-n/)| Math  |     Medium   |
 | 18  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| DFS  |     Medium   |
 | 19  | [Add Binary](https://leetcode.com/problems/add-binary/)| -  |     Easy   |
+| 20  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| Linked List  |     Easy   |
