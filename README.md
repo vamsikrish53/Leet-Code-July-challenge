@@ -23,3 +23,4 @@ Solutions of the problems that I solved in LeetCode during [July LeetCoding Chal
 | 18  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| DFS  |     Medium   |
 | 19  | [Add Binary](https://leetcode.com/problems/add-binary/)| -  |     Easy   |
 | 20  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| Linked List  |     Easy   |
+| 21  | [Word Search](https://leetcode.com/problems/word-search/)| Backtrack  |     Medium   |
